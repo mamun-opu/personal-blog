@@ -1,0 +1,94 @@
+/* Normalization */
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+/* style for header */
+header h2, h4{
+    text-align: center;
+    color: brown;
+    margin: 20px;
+}
+
+/* style for navigation bar */
+nav{
+    border: 1px solid salmon;
+    padding: 5px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: chocolate;
+    font-weight: 600;
+    font-size: large;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+/* style for main section */
+
+main{
+    display: flex;
+    margin: 10px 10%;
+}
+main .info{
+    width: 60%;
+}
+
+.info h1{
+    color:salmon;
+}
+.info p{
+    color: brown;
+}
+
+.info table{
+    color: brown;
+    margin: 20px 0;
+    width: 100%;
+}
+.info table tr th, td{
+    margin: 10px;
+    padding: 10px;
+}
+.info table, th, td {
+    border:1px solid black;
+  }
+
+ol li{
+    color: salmon;
+}
+ol{
+    margin: 20px;
+}
+
+.img img{
+    max-width: 200px;
+
+}
+
+/* styles for main aside */
+main aside{
+    width: 20%;
+}
+.aside ul li a{
+    text-decoration: none;
+    color: chocolate;
+    font-weight: 600;
+}
+.aside ul{
+    margin-top: 100px;
+}
+.aside ul li{
+    margin-top: 20px;
+}
+
+/* styles for footer */
+footer{
+    text-align: center;
+    color: brown;
+}
