@@ -1,0 +1,40 @@
+/* styles for education */
+main aside{
+    width: 20%;
+}
+.edu-main{
+    width: 60%;
+    text-align: left;
+    margin-left: 30px;
+}
+.edu-school h4{
+    text-align: left;
+}
+
+
+main aside{
+    width: 20%;
+}
+aside ul li a{
+    text-decoration: none;
+    color: chocolate;
+    font-weight: 600;
+}
+aside ul{
+    margin-top: 100px;
+}
+aside ul li{
+    margin-top: 20px;
+}
+
+footer{
+    margin-top: 150px;
+}
+
+/* styles for work experience page main section*/
+.work-main{
+    margin-left: 20px;
+}
+.work-info{
+    margin-top: 20px;
+}

@@ -91,4 +91,7 @@ main aside{
 footer{
     text-align: center;
     color: brown;
+    margin: 10px;
+    font-weight: 400;
+    margin-bottom: 20px;
 }
